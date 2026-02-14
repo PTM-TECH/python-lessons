@@ -7,7 +7,7 @@ trials = 0
 # define the rndom value, integer between 0 nd 10
 
 value = random.randint(min, max)
-print(value)
+# print(value)
 is_running = True
 print("-------------------------------")
 print("Welcome to Number Guessing Game")
